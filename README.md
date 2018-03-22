@@ -4,7 +4,7 @@ sin version -> se puede acceder a la pagina de formulario haciendo o no login co
 
 v1 -> hace login solo con google cuando se va a formulario (y es necesario). 
 
-v2 -> hace login con google y twitter. Tiene pantalla de login.
+v2 -> hace login con google y twitter. Tiene pantalla de login y casi hecho al completo lo de las rutas details.
         Falta:
             -Arreglar las rutas a details.
             -Hacer el login con el correo solo.

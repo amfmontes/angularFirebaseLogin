@@ -6,7 +6,7 @@ v1 -> hace login solo con google cuando se va a formulario (y es necesario).
 
 v2 -> hace login con google y twitter. Tiene pantalla de login y casi hecho al completo lo de las rutas details.
         Falta:
-            -Arreglar las rutas a details.
+            -Arreglar las rutas a details. (Tras hacerlo con id, aplicarlo a categorias).
             -Hacer el login con el correo solo.
             -Hacer que desaparezca el boton logout si no estas en sesion.
             -Meter la api de google.

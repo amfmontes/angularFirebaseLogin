@@ -14,3 +14,5 @@ v2 -> hace login con google y twitter. Tiene pantalla de login y casi hecho al c
             -Poner precios en la base de datos.
             -Modificar las reglas en la base de datos para poder escribir en contactos sin ser usuario registrado.
             -Ponerlo bonito.
+            
+v2.1 ->reconoce el enrutamiento detail por id, pero da fallo en el get. Se hace visible la necesidad de poner el campo id al insertar rutas y que este id sea generado de forma automatica (o encontrar la forma de llamar al id de firebase).    

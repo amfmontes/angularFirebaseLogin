@@ -16,3 +16,5 @@ v2 -> hace login con google y twitter. Tiene pantalla de login y casi hecho al c
             -Ponerlo bonito.
             
 v2.1 ->reconoce el enrutamiento detail por id, pero da fallo en el get. Se hace visible la necesidad de poner el campo id al insertar rutas y que este id sea generado de forma automatica (o encontrar la forma de llamar al id de firebase).    
+
+v2.2. ->pequeños arreglos en el login por correo y email (logea pero no lleva a formulario). Logout desaparecido.

@@ -1,5 +1,7 @@
 # angularFirebaseLogin
 
+Este es un proyecto realizado con angular5 con conexion a base de datos de Google Firebase (hace CRUD), que tiene también angular guard.
+
 sin version -> se puede acceder a la pagina de formulario haciendo o no login con google.
 
 v1 -> hace login solo con google cuando se va a formulario (y es necesario). 
@@ -20,3 +22,5 @@ v2.1 ->reconoce el enrutamiento detail por id, pero da fallo en el get. Se hace 
 v2.2. ->pequeños arreglos en el login por correo y email (logea pero no lleva a formulario). Logout desaparecido.
 
 v2.3. ->arreglado login por correo y email. Intentando isLogin y detail por key
+
+v2.4 ->igual que el v2.3. pero cambiado el diseño de inicio, nav, header, footer y de contacto.

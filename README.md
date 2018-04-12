@@ -25,4 +25,4 @@ v2.3. ->arreglado login por correo y email. Intentando isLogin y detail por key
 
 v2.4 ->igual que el v2.3. pero cambiado el diseño de inicio, nav, header, footer y de contacto.
 
-v3 ->hace el ruteo de detail.
+v3 ->hace el routeo de detail.

@@ -25,4 +25,6 @@ v2.3. ->arreglado login por correo y email. Intentando isLogin y detail por key
 
 v2.4 ->igual que el v2.3. pero cambiado el diseño de inicio, nav, header, footer y de contacto.
 
-v3 ->hace el routeo de detail.
+v3 ->hace el routeo de detail por id.
+
+v3.1 -> ya hace el isLogin. Permite registrar nuevos usuarios.Precios puestos (aunque no en el home que es el insert).Arreglado enlace a Slack. Se está intentando poner el almacenamiento por cookies para que lo lleve a carrito y de ahi tener que pagar en funcion de cantidades.
